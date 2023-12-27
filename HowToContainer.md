@@ -64,19 +64,26 @@ ___
 -
     -
         - Вводим необходимый домен
+
           ![domain](images/domain.png)
+
 -
     -
         - Выбираем нужную конфигурацию из доступных
-          ![config-1](images/config-1.png)
+
+![config-1](images/config-1.png)
+
 -
     -
         - Или выбираем из фреймворков
-          ![config-2](images/config-2.png)
+
+![config-2](images/config-2.png)
+
 -
     -
         - И размещаем. Сайт сразу будет доступен к переходу и работе
-          ![working](images/working.png)
+
+![working](images/working.png)
 
 ##### Карточка сайта
 
@@ -180,32 +187,45 @@ ___
 -
     -
         - Создать FTP
-          ![create_ftp](images/create_ftp.png)
+
+![create_ftp](images/create_ftp.png)
+
 -
     -
         - Вводим логин нового пользователя и выбираем каталог
-          ![ftp_interface](images/ftp_interface.png)
+
+![ftp_interface](images/ftp_interface.png)
+
 -
     -
         - Управление в этом интерфейсе осуществляется, как и в FileZilla. '..' отвечает за подъём вверх по каталогу
-          ![ftp_catalog](images/ftp_catalog.png)
+
+![ftp_catalog](images/ftp_catalog.png)
+
 -
     -
         - Выбираем нужную папку -> Применить
-          ![new_folder_click](images/new_folder_click.png)
+
+![new_folder_click](images/new_folder_click.png)
+
 -
     -
         - Новый пользователь создаётся в открывающемся подменю
-          ![new_user](images/new_user.png)
+
+![new_user](images/new_user.png)
+
 -
     -
         - Теперь при подключении к нему у него будет доступ только из выбранной для него папки, где он может работать.
           Для примера я уже создал несколько папок
-          ![user_folders](images/user_folders.png)
+
+![user_folders](images/user_folders.png)
+
 -
     -
         - Созданные там папки видны из главного подключения
-          ![main_connect](images/main_connect.png)
+
+![main_connect](images/main_connect.png)
 
 ##### MySQL
 
@@ -218,21 +238,30 @@ ___
 -
     -
         - Нажимаем "Создать БД"
-          ![create_db](images/create_db.png)
+
+![create_db](images/create_db.png)
+
 -
     -
         - Вводим название и "Применить"
-          ![db_name](images/db_name.png)
+
+![db_name](images/db_name.png)
+
 -
     -
         - База появляется во второй вкладке
-          ![dbs](images/dbs.png)
+
+![dbs](images/dbs.png)
+
 -
     - ##### Базы данных
+
 -
     -
         - Из этого интерфейса можно очистить и удалить базы данных
-          ![clear_db](images/clear_db.png)
+
+![clear_db](images/clear_db.png)
+
 -
     -
         - Изначально созданную базу данных удалить отсюда нельзя! Только очистить
